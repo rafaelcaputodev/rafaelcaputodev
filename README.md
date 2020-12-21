@@ -1,16 +1,12 @@
-### Hi there 👋
+## Hi there
 
-<!--
-**rafaelcaputodev/Rafaelcaputodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Rafael Caputo
+- I live in :brazil:, Rio de Janeiro :sunglasses::sunrise:
+- :computer: Apaixonado por Tecnologia. Sempre se atualizando sobre novas tecnologias e inovações, especialmente na área de programação e desenvolvimento.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  Principais habilidades:
+:ballot_box_with_check: Java
+:ballot_box_with_check: Dart
+:ballot_box_with_check:MySQL
+:ballot_box_with_check: Git
+:ballot_box_with_check: Eclipse | VScode
