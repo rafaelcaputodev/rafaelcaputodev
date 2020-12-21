@@ -6,7 +6,7 @@
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/rafael-caputo-84a0381b7/" target="_black">
-<img align="center" alt="rafael-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+<img align="center" alt="rafael-linkedin" height="30" width="40" src="https://devicon.git/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;">
 </a>
 
