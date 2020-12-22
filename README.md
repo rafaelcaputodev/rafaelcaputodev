@@ -18,6 +18,4 @@ style="max-width:100%;">
 :ballot_box_with_check: Eclipse | VScode <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="40" height="40" style="max.width:100%;"></img>
 
 
-![Estatísticas do github de rafael](https://github-readme-stats.vercel.app/api?Username=rafaelcaputodev&hide=contribs,prs)
-
 
