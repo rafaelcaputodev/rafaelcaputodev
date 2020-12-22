@@ -11,8 +11,13 @@ style="max-width:100%;">
 </a>
 
 ##  Principais habilidades:
-:ballot_box_with_check: Java
-:ballot_box_with_check: Dart
-:ballot_box_with_check:MySQL
-:ballot_box_with_check: Git
-:ballot_box_with_check: Eclipse | VScode
+:ballot_box_with_check: Java <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max.width:100%;"></img>
+:ballot_box_with_check: Dart | Flutter <img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max.width:100%;"></img>
+:ballot_box_with_check: MySQL <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max.width:100%;"></img>
+:ballot_box_with_check: Git <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max.width:100%;"></img>
+:ballot_box_with_check: Eclipse | VScode <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="40" height="40" style="max.width:100%;"></img>
+
+
+![Estatísticas do github de rafael](https://github-readme-stats.vercel.app/api?Username=rafaelcaputodev&hide=contribs,prs)
+
+
