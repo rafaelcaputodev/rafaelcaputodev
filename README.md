@@ -2,7 +2,7 @@
 # I'm Rafael Caputo  :registered:
 ![Programing](https://github.com/rafaelcaputodev/Rafaelcaputodev/blob/master/Programa%C3%A7%C3%A3o.jpg)
 - I live in :brazil:, Rio de Janeiro :sunglasses::sunrise:
-- :computer: Apaixonado por Tecnologia. Sempre se atualizando sobre novas tecnologias e inovações, especialmente na área de programação e desenvolvimento.
+- Apaixonado por Tecnologia. Sempre se atualizando sobre novas tecnologias e inovações, especialmente na área de programação e desenvolvimento. :computer:
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/rafael-caputo-84a0381b7/" target="_black">
