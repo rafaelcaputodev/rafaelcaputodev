@@ -6,16 +6,16 @@
 ## Connect with me:
 
 <a href="https://www.linkedin.com/in/rafael-caputo-84a0381b7/" target="_black">
-<img align="center" alt="rafael-linkedin" height="30" width="40" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-original.svg"
+<img align="center" alt="rafael-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
 style="max-width:100%;">
 </a>
 
 ##  Principais habilidades:
-- :ballot_box_with_check: Java <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max.width:100%;"></img>
-- :ballot_box_with_check: Dart | Flutter <img src="https://devicon.dev/devicon.git/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max.width:100%;"></img>
-- :ballot_box_with_check: MySQL <img src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max.width:100%;"></img>
-- :ballot_box_with_check: Git <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" alt="Git" width="40" height="40" style="max.width:100%;"></img>
-- :ballot_box_with_check: Eclipse | VScode <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="40" height="40" style="max.width:100%;"></img>
+- :ballot_box_with_check: Java  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max.width:100%;"></img>
+- :ballot_box_with_check:  Dart | Flutter <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max.width:100%;"></img>
+- :ballot_box_with_check:  MySQL <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max.width:100%;"></img>
+- :ballot_box_with_check:  Git <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="max.width:100%;"></img>
+- :ballot_box_with_check:  Eclipse | VScode <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="VScode" width="40" height="40" style="max.width:100%;"></img>
 
 
 
