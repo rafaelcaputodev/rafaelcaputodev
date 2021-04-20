@@ -10,7 +10,7 @@
 style="max-width:100%;">
 </a>
 
-##  Principais habilidades:
+##  Key skills:
 - :ballot_box_with_check: Java | Spring <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" style="max.width:100%;"></img>
 - :ballot_box_with_check:  Dart | Flutter <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40" style="max.width:100%;"></img>
 - :ballot_box_with_check:  MySQL  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="max.width:100%;"></img>
